@@ -1,0 +1,8 @@
+C:\Users\astra\Desktop\Doctor'sApp\Doctor'sApp\bin\x86\Release\Doctor'sApp.exe.config
+C:\Users\astra\Desktop\Doctor'sApp\Doctor'sApp\bin\x86\Release\Doctor'sApp.exe
+C:\Users\astra\Desktop\Doctor'sApp\Doctor'sApp\bin\x86\Release\Doctor'sApp.pdb
+C:\Users\astra\Desktop\Doctor'sApp\Doctor'sApp\obj\x86\Release\Doctor_sApp.MainForm.resources
+C:\Users\astra\Desktop\Doctor'sApp\Doctor'sApp\obj\x86\Release\Doctor_sApp.Properties.Resources.resources
+C:\Users\astra\Desktop\Doctor'sApp\Doctor'sApp\obj\x86\Release\Doctor'sApp.csproj.GenerateResource.cache
+C:\Users\astra\Desktop\Doctor'sApp\Doctor'sApp\obj\x86\Release\Doctor'sApp.exe
+C:\Users\astra\Desktop\Doctor'sApp\Doctor'sApp\obj\x86\Release\Doctor'sApp.pdb
